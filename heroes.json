@@ -17,6 +17,12 @@
       "name": "Морской герой",
       "description": "Как аквамен, но не из DC",
       "element": "water"
+    },
+    {
+      "id": "abc79918-9e1b-4a66-b24a-b2c40559b10b",
+      "name": "Чизбургер",
+      "description": "nm",
+      "element": "earth"
     }
   ],
   "filters": [
